@@ -1,0 +1,23 @@
+<link rel="stylesheet" href="/css/style.css">
+<ul class="accordion" data-accordion="open">
+	<li>
+		<div class="accordion-header">First</div>
+		<div class="accordion-body">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quod, voluptate. A, consectetur cumque dicta explicabo ipsum laudantium magnam magni provident recusandae repudiandae, sunt tempora voluptates. Assumenda possimus repellendus sapiente
+		</div>
+	</li>
+	<li>
+		<div class="accordion-header">Second</div>
+		<div class="accordion-body">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quod, voluptate. A, consectetur cumque dicta explicabo ipsum laudantium magnam magni provident recusandae repudiandae, sunt tempora voluptates. Assumenda possimus repellendus sapiente
+		</div>
+	</li>
+	<li>
+		<div class="accordion-header">Third</div>
+		<div class="accordion-body">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, quod, voluptate. A, consectetur cumque dicta explicabo ipsum laudantium magnam magni provident recusandae repudiandae, sunt tempora voluptates. Assumenda possimus repellendus sapiente
+		</div>
+	</li>
+</ul>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="/js/main.js"></script>
