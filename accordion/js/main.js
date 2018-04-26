@@ -15,7 +15,7 @@ var accordion = function () {
 		}
 
 		$(this).next('.accordion-body').not(':animated').slideToggle();
-	})
-}
+	});
+};
 
 accordion();
